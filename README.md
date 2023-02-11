@@ -11,7 +11,7 @@ Para o desenvolvimento, foram usadas as linguagens HTML e JavaScript.
 
 > Passo 1
 
-Para executar o site, baixe os arquivos do repositório e os deixem na mesma pasta.
+Para executar o site, baixe ou copie os arquivos do repositório. Se achar melhor, faça um clone do repositório no seu PC.
 
 > passo 2
 
