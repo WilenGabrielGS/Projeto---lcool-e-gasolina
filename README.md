@@ -5,7 +5,7 @@
 Olá, bem vindo ao projeto Álcool e Gasolina!
 Este é um projeto que eu fiz quando estava fazendo um curso de programação web.
 O projeto consiste em um site que calcula qual a melhor opção entre dois combustíveis baseado nos seus preços. 
-Para o desenvolvimento, foram usadas as linguagens HTML e JavaScript.
+Para o desenvolvimento, foram usadas as linguagens HTML e JavaScript
 
 <h1>Passos para a execussão</h1>
 
